@@ -10,6 +10,6 @@ MECANICA = "Memoria de parejas"
 
 # Dirección pública de la aplicación desplegada.
 # Ejemplo: "https://github.com/yeris01/plataforma-ludica.git"
-URL_PUBLICA = ""
+URL_PUBLICA = "https://plataforma-ludica-j1ux.onrender.com/"
 
 VERSION = "0.1.0"

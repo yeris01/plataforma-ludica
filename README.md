@@ -2,9 +2,9 @@
 
 Prototipo de una plataforma web lúdica de cursos para niños, desarrollado con FastAPI.
 
-- **Aprendiz:** Nombre Apellido
-- **Curso y mecánica:** (complete)
-- **Aplicación publicada:** (complete con la URL de Render)
+- **Aprendiz:** Eleanyeris del valle hernandez hernandez
+- **Curso y mecánica: ** (Lectura , Memoria de parejas)
+- **Aplicación publicada:** (https://plataforma-ludica-j1ux.onrender.com/)
 
 ## Ejecutar en su equipo
 

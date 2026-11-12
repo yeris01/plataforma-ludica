@@ -21,11 +21,4 @@ entregas/*.pdf
 .DS_Store
 Thumbs.db
 .idea/
-<<<<<<< HEAD
-.env
-.venv/
-__pycache__/
-*.pyc
-.pytest_cache/
-=======
->>>>>>> 728aef06a375a8e4a81f461cc2384d9005f72add
+
